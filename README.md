@@ -1,2 +1,2 @@
-# C-Standard-Library-in-ARM-Assembly
-Implementation of various C standard library functions in ARM Assembly.
+# Implementation of C Standard Library Functions in ARM Assembly
+This project is designed to run on Keil uVision. It includes all the files necessary to run, with all of the .s files being written by me. The functions implemented include data manipulation, timers, and handling memory allocation via a heap. This project was very challenging to complete, but ended up working quite smoothly by the end!
